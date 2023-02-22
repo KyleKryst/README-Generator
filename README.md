@@ -17,21 +17,9 @@
 
   [license]: https://github.com/KyleKryst/README-Generator/blob/main/README.md#license
 
-  [Contributing][contributing]
-
-  [contributing]: https://github.com/KyleKryst/README-Generator/blob/main/README.md#contributing
-
-  [Tests][tests]
-
-  [tests]: https://github.com/KyleKryst/README-Generator/blob/main/README.md#tests
-
   [Questions][questions]
 
   [questions]: https://github.com/KyleKryst/README-Generator/blob/main/README.md#questions
-
-  [Credits][credits]
-
-  [credits]: https://github.com/KyleKryst/README-Generator/blob/main/README.md#credits
 
   ## Installation ##
   The steps required to install this project are as listed: 1) Download Visual Studio Code if you do not have it installed already. 2) Open the project in the integrated terminal.
